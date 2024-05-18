@@ -1,1 +1,1 @@
-print("1")
+game.Players.LocalPlayer:Kick("outdate")
